@@ -1,20 +1,13 @@
-<<<<<<< HEAD
-????ǰ??
-https://campus.alibaba.com/traineePositions.htm?refno=11636
-????ǰ??
-http://campus.163.com/#/internship/detail?positionId=4507
-360ǰ??
-http://campus.chinahr.com/2016/qihu2016/jobs.asp
-?ٶ?ǰ?ˣ????֣?
-=======
 阿里前端
 https://campus.alibaba.com/traineePositions.htm?refno=11636
+
 网易前端 
 http://campus.163.com/#/internship/detail?positionId=4507
+
 360前端
 http://campus.chinahr.com/2016/qihu2016/jobs.asp
+
 百度前端（部分）
->>>>>>> master
 http://talent.baidu.com/external/baidu/index.html#/jobDetail/12/1050964958
 http://talent.baidu.com/external/baidu/index.html#/jobDetail/12/957637780
 http://talent.baidu.com/external/baidu/index.html#/jobDetail/12/265894521
