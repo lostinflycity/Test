@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-????ǰ??
-https://campus.alibaba.com/traineePositions.htm?refno=11636
-????ǰ??
-http://campus.163.com/#/internship/detail?positionId=4507
-360ǰ??
-http://campus.chinahr.com/2016/qihu2016/jobs.asp
-?ٶ?ǰ?ˣ????֣?
-=======
+ HEAD
+
 阿里前端
 https://campus.alibaba.com/traineePositions.htm?refno=11636
 网易前端 
