@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 阿里前端：
 https://campus.alibaba.com/traineePositions.htm?refno=11636
 
 网易前端 ：
+=======
+ HEAD
+
+阿里前端
+https://campus.alibaba.com/traineePositions.htm?refno=11636
+网易前端 
+>>>>>>> pr/1
 http://campus.163.com/#/internship/detail?positionId=4507
 
 360前端：
